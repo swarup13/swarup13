@@ -1,13 +1,19 @@
 ### Hi there 👋
-
+…………
 Name - Swarup Bhanja Chowdhury
 
-Application Developer
+-------
+
+Cross Platform Application Developer
+
+---------
 
 
 Flutter(Intermediate) Cross-Platform Application Developer. Learning Kubernetes. Preparing for CKA.
 
   Hobbies: Reading Books, Playing Cricket, Jogging, Painting, Gardening
+
+------------------
 
 SOCIAL PROFILES
 
@@ -16,6 +22,7 @@ SOCIAL PROFILES
   * Portfolio: https://swarupbhanjachowdhury.github.io/
   * Open Source Community: https://github.com/sanscript-tech
 
+------------
 
 LANGUAGES
 
@@ -25,7 +32,7 @@ LANGUAGES
 
   ★★★★★ Bengali
 
-
+------------
 
 SKILLS
 
@@ -43,6 +50,7 @@ SKILLS
 
   ★★☆☆☆ JavaScript
 
+-----------------
 
 WORK EXPERIENCE
 
@@ -56,7 +64,7 @@ WORK EXPERIENCE
     Freelance Work at , 
       Flutter, WordPress, Graphics Design, Digital Marketing, UI
 
-
+------------------
 
 EDUCATION
 
@@ -65,6 +73,7 @@ EDUCATION
   * December 2020 – December 2020
     Gobardanga Khantura High School (H.S),  Higher Secondary
 
+--------------------
 
 EXTRA-CURRICULAR ACTIVITIES
 
@@ -73,6 +82,7 @@ EXTRA-CURRICULAR ACTIVITIES
   * 
     TLF Scholar 2020 at The Linux FOundation, 
 
+--------------------
 
 COURSES
 
@@ -85,7 +95,7 @@ COURSES
   * December 2020 – December 2020
     English Profciency, British Council 
 
-
+---------------------
 
   * Certificates 
 
