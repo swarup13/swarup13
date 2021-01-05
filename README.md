@@ -16,16 +16,25 @@ SOCIAL PROFILES
 
 LANGUAGES
   ★★★☆☆ English
+
   ★★★★☆ Hindi
+
   ★★★★★ Bengali
+
 
 SKILLS
   ★★★☆☆ Flutter
+
   ★★★☆☆ Dart
+
   ★★☆☆☆ Python
+
   ★★★☆☆ Git
+
   ★★★★☆ HTML & CSS
+
   ★★★★★ Wordpress
+
   ★★☆☆☆ JavaScript
 
 WORK EXPERIENCE
