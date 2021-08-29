@@ -9,7 +9,7 @@ Cross Platform Application Developer
 ---------
 
 
-Flutter(Intermediate) Cross-Platform Application Developer. Learning Kubernetes. Preparing for CKA.
+Flutter(Intermediate) Cross-Platform Application Developer. Learning Kubernetes. CKA.
 
   Hobbies: Reading Books, Playing Cricket, Jogging, Painting, Gardening
 
