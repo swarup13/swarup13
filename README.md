@@ -19,7 +19,7 @@ SOCIAL PROFILES
 
   * GitHub: https://github.com/swarupbhanjachowdhury
   * LinkedIn: https://www.linkedin.com/in/swarup-bhanja-chowdhury-0a7391184
-  * Portfolio: https://swarupbhanjachowdhury.github.io/
+  * Portfolio: https://swarup13.github.io/
   * Open Source Community: https://github.com/sanscript-tech
 
 ------------
