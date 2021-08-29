@@ -17,7 +17,7 @@ Flutter(Intermediate) Cross-Platform Application Developer. Learning Kubernetes.
 
 SOCIAL PROFILES
 
-  * GitHub: https://github.com/swarupbhanjachowdhury
+  * GitHub: https://github.com/swarup13
   * LinkedIn: https://www.linkedin.com/in/swarup-bhanja-chowdhury-0a7391184
   * Portfolio: https://swarup13.github.io/
   * Open Source Community: https://github.com/sanscript-tech
