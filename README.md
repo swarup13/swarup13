@@ -26,7 +26,7 @@ SOCIAL PROFILES
 
 LANGUAGES
 
-  ★★★☆☆ English
+  ★★★★☆ English
 
   ★★★★☆ Hindi
 
