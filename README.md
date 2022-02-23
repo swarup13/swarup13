@@ -36,7 +36,7 @@ LANGUAGES
 
 SKILLS
 
-  ★★★☆☆ Flutter
+  ★★★★☆ Flutter
 
   ★★★☆☆ Dart
 
@@ -45,9 +45,7 @@ SKILLS
   ★★★☆☆ Git
 
   ★★★★☆ HTML & CSS
-
-  ★★★★★ Wordpress
-
+  
   ★★☆☆☆ JavaScript
 
 -----------------
