@@ -17,10 +17,10 @@ Flutter(Intermediate) Cross-Platform Application Developer. Learning Kubernetes.
 
 SOCIAL PROFILES
 
-  * GitHub: https://github.com/swarup13
-  * LinkedIn: https://www.linkedin.com/in/swarup-bhanja-chowdhury-0a7391184
-  * Portfolio: https://swarup13.github.io/
-  * Open Source Community: https://github.com/sanscript-tech
+  * GitHub: https://github.com/swarupbc
+  * LinkedIn: https://www.linkedin.com/in/swarupbc
+  * Portfolio: https://swarup.dev
+  * X (Twitter): https://x.com/swarupbc
 
 ------------
 
@@ -38,15 +38,15 @@ SKILLS
 
   ★★★★☆ Flutter
 
+  ★★★☆☆ Nest JS
+
   ★★★☆☆ Dart
 
+  ★★★☆☆ TypeScript
+
   ★★☆☆☆ Python
-
-  ★★★☆☆ Git
-
-  ★★★★☆ HTML & CSS
   
-  ★★☆☆☆ JavaScript
+  ★★☆☆☆ Docker & Kubernetes
 
 -----------------
 
